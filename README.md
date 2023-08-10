@@ -100,20 +100,14 @@ The game is fully responsive and was set with some animations and a little twist
 
 ### Deployment
 
-The site was deployed to Vercel. The steps to deploy are as follows:
+The site was deployed to Netlify. The steps to deploy are as follows:
 
-- Create a new GitHub repository with a project name of "RPSLS-Game".
+- Create a new GitHub repository with a project name of "Tic Tac Toe".
 - Push your project to the GitHub repository.
-- Open the Vercel website and login (Signup if you don't have an account)
+- Open the Netlify website and login (Signup if you don't have an account)
 - Create a new project and import the Git repository.
-- The live link can be found here - https://tic-tac-toe-sandy-rho.vercel.app/
+- Deploy the project
 
-## Author
 
-- Frontend Mentor - [@zDevtutor](https://www.frontendmentor.io/profile/zDevtutor)
 
-## Credits
 
-- Frontend mentor for providing the project design mockups.
-- CodeInstitute for provding the README template.
-- The thinking behaviour of CPU was from [@BenjaDotMin](https://github.com/BenjaDotMin)
